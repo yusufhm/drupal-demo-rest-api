@@ -1,0 +1,17 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - demo_rest_api
+    - serialization
+    - user
+id: demo_resource
+plugin_id: demo_resource
+granularity: resource
+configuration:
+  methods:
+    - GET
+  formats:
+    - json
+  authentication:
+    - cookie
