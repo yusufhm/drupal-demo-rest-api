@@ -1,0 +1,8 @@
+{
+  "name": "yusufhm/demo_rest_api",
+  "description": "Defines a custom REST Resource.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "REST"],
+  "homepage": "https://github.com/yusufhm/drupal-demo-rest-api",
+  "license": "UNLICENSED"
+}
