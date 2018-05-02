@@ -11,7 +11,7 @@ Install the module.
 
 If you want anonymous access to the resource, go to `/admin/people/permissions` and set the correct access for the `Access GET on Demo Resource resource` permission.
 
-Try accessing the url `http://local.d8-blt.com/demo_rest_api/demo_resource?_format=json` from your favourite client.
+Try accessing the url `/demo_rest_api/demo_resource?_format=json` from your favourite client.
 
 You should see the following result:
 ```json
